@@ -1,0 +1,28 @@
+{
+    "users":[
+        {
+            "id":1,
+            "first_name":"robert",
+            "last_name":"schwartz",
+            "email":"rober@gmail.com"
+        },
+        {
+            "id":2,
+            "first_name":"lucy",
+            "last_name":"maui",
+            "email":"lucy@gmail.com"
+        },
+        {
+            "id":3,
+            "first_name":"john",
+            "last_name":"read",
+            "email":"john@gmail.com"
+        },
+        {
+            "id":4,
+            "first_name":"jerry",
+            "last_name":"tom",
+            "email":"tom@gmail.com"
+        }
+    ]
+}
